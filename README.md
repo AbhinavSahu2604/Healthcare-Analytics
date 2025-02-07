@@ -1,4 +1,4 @@
-# Healthcare Data in SQL and Visualization in Tableau
+# Healthcare Analytics (SQL & Tableau)
 
 This healthcare analytics project uses SQL queries to explore various use cases such as patient volumes, emergency room throughput, and procedures.
 
@@ -71,6 +71,12 @@ Finally I want to look at blood pressure management. Blood pressure is a key ind
   - Which race had the highest percentage of blood pressure readings that were above 140/90 and taken before 2020?
 
 In this healthcare analytics project, I build some dashoboards in tableau for flu shots, emergency room visits, and encounters.
+
+![image](https://github.com/user-attachments/assets/67853959-7705-42e5-8df4-2efb0e20e26c)
+
+![image](https://github.com/user-attachments/assets/bb71988e-61a9-4bb4-9d3d-9b47aeb7a63e)
+
+![image](https://github.com/user-attachments/assets/52e4796b-9047-47a7-bcaf-664825678c93)
 
 ![image](https://github.com/user-attachments/assets/823e0a82-809d-4e1c-9235-e8c554322f2e)
 
